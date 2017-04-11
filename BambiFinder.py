@@ -28,7 +28,7 @@ diradd="/Users/Mehdi/Downloads/GoldenGate-Animals/"
 # RUNNING THE SCRIPT
 # Save the changes you've made to the file (The above path variables). 
 # In Mac OS or Linux terminal "cd" to the directory that contains the python script file "BambiFinder.py" and type "python BambiFinder.py". 
-# Depending on the number of images to be processed and the computer the run time might vary from several minutes or even a few hours. 
+# Depending on the number of images to be processed and the computer the run time might vary from several minutes to even a few hours. 
 
 #############################################################
 #############################################################
